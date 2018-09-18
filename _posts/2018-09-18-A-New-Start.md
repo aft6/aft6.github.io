@@ -62,19 +62,11 @@ Also, whilst adding decoration to my blog, I  accidentally changed the url link 
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>During the lesson, I could have produced a more fruitful blog by not wasting time. Just one example of this is when I wanted to change the url link. I tried changing some parts of my github page, such as the username and repository name, however this just broke my blog. I then fixed it, however, broke it again repeatedly trying to complete the same task as before. </td>
-    <td></td>
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>In the future, when something doesn’t work, I need to tackle it in a different way from attempting it and then continuing to do the same thing over and over again if it doesn’t work the first time. Next time, I will tackle each part of my blog in a more innovative and creative approach so that I can be more informed about what steps I take to improve my blog. </td>
-    <td></td>
   </tr>
 </table>
 
