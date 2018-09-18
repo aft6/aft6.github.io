@@ -42,6 +42,7 @@ published: true
     <td>Persevering</td>
     <td>This week, I had to persevere a substantial amount. Firstly, persevering was used when I accidentally deleted my '_posts’ option from my Github Code, and therefore couldn’t publish any of my blogs. I persevered by looking at different sites as to why this might have happened, such as our school’s Github FAQ page and I also asked other people in my class if they may have known why. I came across the answer that it may have been because I deleted my ‘Hello World’ Blog Post, and therefore the entire folder, and therefore  I couldn't publish anything. I followed up my conclusion by seeing Mr Keen and asking him for some help on what I had done wrong. This allowed me to build a new folder and publish this blog. 
 
+
 Also, whilst adding decoration to my blog, I  accidentally changed the url link of my avatar which caused my blog to break. Later on I had to go back and find out what I had done wrong. I had to scrutinise my code and also compared it to others’ and found out that my link didn’t end correctly as it ended with .pngh which I may have accidentally added after pasting. </td>
   </tr>
   <tr>
