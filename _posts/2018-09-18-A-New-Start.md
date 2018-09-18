@@ -35,7 +35,12 @@ published: true
 <table>
   <tr>
     <td>How did you use your learning habits this week?</td>
-    <td></td>
+    <td>Persevering
+Questioning
+Independence
+Reflecting 
+Engagement
+</td>
   </tr>
   <tr>
     <td>Persevering</td>
@@ -44,12 +49,19 @@ published: true
 Also, whilst adding decoration to my blog, I  accidentally changed the url link of my avatar which caused my blog to break. Later on I had to go back and find out what I had done wrong. I had to scrutinise my code and also compared it to others’ and found out that my link didn’t end correctly as it ended with .pngh which I may have accidentally added after pasting. </td>
   </tr>
   <tr>
+    <td>Questioning?</td>
+    <td>I questioned a large amount in Computer Science this week. Firstly, since we hadn’t created a repository for nearly a year, I questioned myself about where I could access information to help me set up my new repository. After finding help on the Github Learning Blog Page, I managed to set one up effectively and quickly. </td>
+  </tr>
+  <tr>
     <td>Independence</td>
     <td>I was independent throughout the lesson as I managed to set up my github repository and publish a blog by myself during the lesson without help from anyone else. Also, I managed to decorate my blog professionally using style guides and W3 Schools as recommended to us. </td>
   </tr>
   <tr>
-    <td>Engagement
-</td>
+    <td>Reflecting</td>
+    <td>Throughout the whole lesson, reflecting was a key skill that I used so that I could replicate the basic features of my blog that I added to my repository the previous year. As well as this, when I added extra features for homework, I reflected on both what I did the previous year and in the lesson so that I could continue my work. </td>
+  </tr>
+  <tr>
+    <td>Engagement</td>
     <td>I was engaged throughout the lesson as I listened to all of the advice that Mr Keen gave us on what websites to look at to learn how we can add different pieces of decoration and style to our blog. </td>
   </tr>
   <tr>
