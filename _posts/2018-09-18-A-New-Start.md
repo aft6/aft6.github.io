@@ -35,7 +35,7 @@ published: true
 <table>
   <tr>
     <td>How did you use your learning habits this week?</td>
-    <td>The five main learning techniques at Challoner's- persevering, questioning, independence, reflecting, Engagement.
+    <td>The five main learning techniques at Challoner's- persevering, questioning, independence, reflecting and engagement.
 </td>
   </tr>
   <tr>
