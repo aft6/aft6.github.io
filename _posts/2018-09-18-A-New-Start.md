@@ -54,7 +54,7 @@ Also, whilst adding decoration to my blog, I  accidentally changed the url link 
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>Throughout the whole lesson, reflecting was a key skill that I used so that I could </td>
+    <td>Throughout the whole lesson, reflecting was a key skill that I used so that I could replicate the basic features of my blog that I added to my repository the previous year. As well as this, when I added extra features for homework, I reflected on both what I did the previous year and in the lesson so that I could continue my work. </td>
   </tr>
   <tr>
     <td>Engagement</td>
