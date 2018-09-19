@@ -8,10 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <td>In the Philippines, there is an island which sits in a lake, which sits on an island which itself sits on a lake which sits on an island which sits in the middle of an ocean. It is easier shown in a picture as the link shows below:</td>
+    <td>In the Philippines, there is an island which sits in a lake, which sits on an island which itself sits on a lake which sits on an island which sits in the middle of an ocean. It is easier shown in a picture as shown below:</td>
   </tr>
 </table>
 
 
-Link Coming Soon!
+Picture Coming Soon!
 
