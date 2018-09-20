@@ -1,5 +1,5 @@
 ---
-title: Welcome to aft6
+title: Welcome To aft6
 layout: post
 author: aaron.arora
 permalink: /welcome-to-aft6/
