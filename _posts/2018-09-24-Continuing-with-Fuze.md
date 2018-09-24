@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Beginner</td>
+    <td>Continuing with Fuze</td>
     <td>Date</td>
-    <td>17/09/18</td>
+    <td>24/09/18</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Prior to this lesson, I had no experience using this software, however, I had used other software sites, such as Github and JS Bin, which require a significant amount of coding. </td>
+    <td>In the previous lesson, with my pair, I had set up a Fuze Computer and performed some very basic coding following an instruction book. I was familiar with how to plug the machine in and where to go to find the coding page. </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>My aim for this lesson was to set up our fuze beginner program onto our monitors with a partner and then follow a handbook to set up basic patterns for the computer to follow, such as repeatedly pasting our name every few seconds. </td>
+    <td>The overall aim for this lesson was to continue progressing along the booklet learning new skills and to develop a wider understanding of simple programming that we could undertake. </td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>I reached my target this lesson as I managed to create a simple group programming instructions for the computer to follow with my pair.  </td>
+    <td>I reached my target as I finished the first task in the booklet, however, after we finished this, our Fuze Computer, which was labelled 'repair,' switched off and a message on the monitor said that it was ‘killing the programme.’ We tried a different fuze box and lots of different monitors but none worked, so in the end we had to go in another group, where progress was much slower. </td>
   </tr>
 </table>
 
@@ -40,31 +40,31 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Throughout the lesson, persevering was a key skill which I had to use. This was mainly with switching my Fuze Computer on. I had connected some wrong wires into my computer and therefore both my mouse and keyboard weren’t working. Me and my pair persevered by consulting our booklet on how to setup the layout and which plugs to connect into which ports, which helped us continue with the lesson’s work greatly. </td>
+    <td>Throughout the lesson, persevering was used greatly when trying to make our Fuze Box work on the different monitors. </td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>Questioning was used at the start of the lesson, whilst setting up. I questioned as to how I could set up the structure of my code but this was answered by my booklet which we were provided with. </td>
+    <td>Questioning wasn’t greatly used in this lesson. </td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>As we worked in pairs for this lesson, independence wasn’t a key factor, however, I independently thought of a way for me to be able to access the code next lesson without having to start from scratch, which was in the form of taking a photo on main elements of my code which I entered.</td>
+    <td>As this lesson was done in pairs, independence wasn’t used as we tried to make the most of the teamwork opportunities to progress as quickly and methodically as we could. Despite this, my pair came later than me so I had managed to already plug in all the cables to the Fuze Box and make it start up. </td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>Reflecting wasn’t used during this lesson very much as we have never worked using Fuze before but prior knowledge from Github was reflected on by both me and my partner so that we could code the basic parts on Fuze that we were meant to. </td>
+    <td>Reflecting was used as we had to reflect on what we learnt last week and how we could use that prior knowledge to progress through the booklet at a quicker speed. </td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I was engaged as me and my pair were constantly working on what the booklet told us to and were completing all of the stages quickly and efficiently compared to other groups. </td>
+    <td>Engagement was used consistently, from following the instructions given by the booklet to attempting to fix our broken Fuze Box. </td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td>In my learning, I could have paid more attention to what Mr Keen said at the beginning as me and my pair didn’t manage to switch on our Fuze Computer very quickly because we didn’t listen to the instruction that we switch it on after plugging everything in. . </td>
+    <td>In my learning, I could have greatly improved it by using sources available to me sooner. When I forgot where to plug in one of the cables, I didn’t look into my booklet for quite a while which wasted a lot of productive time, despite my partner coming later. </td>
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td>In the future, I need to heed any previous tips on how I can complete my work both more quickly and efficiently so that I can progress further into my work. </td>
+    <td>When working with a Fuze Box in the future, I need to use all sources available to me such as the internet, the booklet and peer advice which may be useful to me. </td>
   </tr>
 </table>
 
