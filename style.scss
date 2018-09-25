@@ -73,13 +73,11 @@ p {
   margin: 15px 0;
 }
 
-a {
-  color: $blue;
-  text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
+a:hover, a:active {
+  font-size: 31px
+  text-decoration: underline;
+  cursor: -webkit-grab; cursor: grab;
+  text-transform: uppercase;
 }
 
 ul, ol {
