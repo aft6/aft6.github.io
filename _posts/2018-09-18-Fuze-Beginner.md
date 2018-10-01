@@ -1,5 +1,5 @@
 ---
-title: Fuze Beginner
+title: Assessment On Fuze
 layout: post
 author: aaron.arora
 permalink: /fuze-beginner/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Beginner</td>
+    <td>Assessment On Fuze</td>
     <td>Date</td>
-    <td>17/09/18</td>
+    <td>01/10/18</td>
   </tr>
 </table>
 
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Prior to this lesson, I had no experience using this software, however, I had used other software sites, such as Github and JS Bin, which require a significant amount of coding. </td>
+    <td>Knowing all of the skills needed to create a countdown for a rocket launch which was what we had to make as part of our assessment. </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>My aim for this lesson was to set up our fuze beginner program onto our monitors with a partner and then follow a handbook to set up basic patterns for the computer to follow, such as repeatedly pasting our name every few seconds. </td>
+    <td>The aim for this lesson was to create a Fuze project spread over two screens which counted down the launch of a rocket. </td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>I reached my target this lesson as I managed to create a simple group programming instructions for the computer to follow with my pair.  </td>
+    <td>I did reach my target as within the lesson, me and my pair, Thomas, managed to create this and start the extension tasks including changing the number of seconds the instructions told the programme to 'wait' for. </td>
   </tr>
 </table>
 
