@@ -40,7 +40,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Throughout the lesson, persevering was a key skill which I had to use. This was mainly with switching my Fuze Computer on. I had connected some wrong wires into my computer and therefore both my mouse and keyboard weren’t working. Me and my pair persevered by consulting our booklet on how to setup the layout and which plugs to connect into which ports, which helped us continue with the lesson’s work greatly. </td>
+    <td>Throughout the course of the lesson, persevering was used greatly, such as when our text would not go to the middle of the page. We persevered, trying many different possible instructions, such as 'middle,’ ‘centre’ and ‘top’ to </td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -48,7 +48,7 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>As we worked in pairs for this lesson, independence wasn’t a key factor, however, I independently thought of a way for me to be able to access the code next lesson without having to start from scratch, which was in the form of taking a photo on main elements of my code which I entered.</td>
+    <td>Independence wasn’t used as we worked in pairs, helping each other and doing half of the jobs at a time. </td>
   </tr>
   <tr>
     <td>Reflecting</td>
