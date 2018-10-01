@@ -40,11 +40,11 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Throughout the course of the lesson, persevering was used greatly, such as when our text would not go to the middle of the page. We persevered, trying many different possible instructions, such as 'middle,’ ‘centre’ and ‘top’ to </td>
+    <td>Throughout the course of the lesson, persevering was used greatly, such as when our text would not go to the middle of the page. We persevered, trying many different possible instructions, such as 'middle,’ ‘centre’ and ‘top’ to get the text in the centre of the page. </td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>Questioning was used at the start of the lesson, whilst setting up. I questioned as to how I could set up the structure of my code but this was answered by my booklet which we were provided with. </td>
+    <td>Questioning was used when I was attempting to figure out tricky steps in the boolet which we had not yet covered, such as how to make a new screen. </td>
   </tr>
   <tr>
     <td>Independence</td>
@@ -52,19 +52,19 @@ published: true
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>Reflecting wasn’t used during this lesson very much as we have never worked using Fuze before but prior knowledge from Github was reflected on by both me and my partner so that we could code the basic parts on Fuze that we were meant to. </td>
+    <td>Reflecting was used greatly in this lesson as we had to reflect on what we learnt in previous lessons to complete this assessment within the lesson’s permitted time. </td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I was engaged as me and my pair were constantly working on what the booklet told us to and were completing all of the stages quickly and efficiently compared to other groups. </td>
+    <td>I was engaged as me and my pair were constantly figuring out something new or frantically attempting to correct some code that we had just figured out. </td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td>In my learning, I could have paid more attention to what Mr Keen said at the beginning as me and my pair didn’t manage to switch on our Fuze Computer very quickly because we didn’t listen to the instruction that we switch it on after plugging everything in. . </td>
+    <td>In my learning, I could have paid more interesting setting it up as I thought that I knew how to and so didn’t bother to pay attention or be engaged with that. </td>
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td>In the future, I need to heed any previous tips on how I can complete my work both more quickly and efficiently so that I can progress further into my work. </td>
+    <td>Next time, I need to engage with every aspect of the lesson so that I can learn the most from Computing whenever possible. </td>
   </tr>
 </table>
 
