@@ -8,10 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <td>The graphic designer who drew up the current Underground map had to handwrite 2400 characters in a particular typographic style for his prototype to be published.</td>
+    <td>The graphic designer who drew up the current Underground map had to handwrite 2400 characters in a particular typographic style for his prototype to be published. See the link for a picture.</td>
   </tr>
 </table>
 
 
-Picture Coming Soon
+
 
