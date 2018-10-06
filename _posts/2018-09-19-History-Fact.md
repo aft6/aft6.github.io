@@ -8,10 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>In the Middle Ages, it was common for an animal to be sentenced to death by a judge and then murdered. See the picture below for more detail:</td>
+    <td>In the Middle Ages, it was common for an animal to be sentenced to death by a judge and then murdered. Click the link below for an image:</td>
   </tr>
 </table>
 
 
-![image alt text]({{ site.url }}/public/ByOGgN7hlyg/TyX42PNjNTI/AAAAAAAABio/SxJQBs94bH8/s1600/dogtrial.jpg)
-
+<a href="https://i0.wp.com/www.medievalists.net/wp-content/uploads/2013/09/medieval-animal-trials.png?w=800">Animal Trials
