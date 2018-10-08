@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td> Type Here</td>
+    <td> Having previously completed an assessment on Fuze and had the previous half term spent learning how to code using a Fuze Box. </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Type Here</td>
+    <td>To continue in our booklet and successfully continue or compleet a project. </td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Type Here</td>
+    <td>Yes, as I finished project 1.3 in the fuze book with my pair. </td>
   </tr>
 </table>
 
