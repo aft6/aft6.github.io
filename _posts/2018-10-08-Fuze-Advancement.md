@@ -40,31 +40,31 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>Type Here</td>
+    <td>In the lesson, persevering was used greatly when some of my code did not work on my Fuze Box. I had to try different combinations of the code that I had written after carefully checking that I had not made any editors within the code itself. </td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>Type Here</td>
+    <td>Questioning was used when I questioned myself what code I could change to ensure that it worked properly. Also, there were minor edits such as capital letters which caused cascade errors, so identifying them through questioning was key. </td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>Type Here</td>
+    <td>Independence wasn’t used in the lesson as I worked in a pair. We collaborated and communicated well, allowing us to complete a good amount of tasks which we were meant to. </td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>Type Here</td>
+    <td>Reflecting was used greatly as we had to continuously look back at what we had done previous weeks to remind us and stimulate ourselves so that we could further advance and enhance our work within the lesson. </td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>Type Here</td>
+    <td>Engagement was absolutely key in this lesson. To finish the task which we were doing, we had to be 100% engaged and completely focused throughout the lesson so that we could finish the piece in time. </td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td>Type Here</td>
+    <td>I could have set the Fuze Box up more quickly. Between every lesson I always forget how to set it up and spend five minutes wasting time- such as forgetting to switch on the Fuze Box. </td>
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td>Type Here</td>
+    <td>I need to remember how to set up the Fuze Box and remember it; I need to remember the essentials of setting it up, like switching on the power socket. </td>
   </tr>
 </table>
 
