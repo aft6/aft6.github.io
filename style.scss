@@ -24,10 +24,15 @@ body {
 }
 
 .container {
+      color: #ffffff;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background:rgba(0, 0, 0, 0.6);
+  border-radius: 25px;
+  padding: 20px;
+  box-shadow: 5px 5px black;
 }
 
 h1, h2, h3, h4, h5, h6 {
