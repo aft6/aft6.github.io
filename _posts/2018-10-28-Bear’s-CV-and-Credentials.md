@@ -3,7 +3,7 @@ layout: post
 title: BEAR'S CV AND CREDENTIALS
 ---
 
-Mr Bear Bear (Age: 30)
+Mr Bear Bear (Age: BŶ30)
 
 13 Bampfylde Road, Torquay
 
@@ -35,18 +35,18 @@ I have a strong desire to perform all pieces of music to the best of my ability 
 
 EDUCATION
 
-University of Oxford (Jaunuary 2016- August 2016)
+B. University of Oxford (Jaunuary 2016- August 2016)
 
-Masters degree in music with honours placed in the 2nd class.
+B. Masters degree in music with honours placed in the 2nd class.
 
 -----------------------------------------------------------------
 
 B. Dr Bane's Grammar School (August 2009- December 2013)
 
-3 A- Levels (A* - A) including Music and German
+3 B. A- Levels (A* - A) including Music and German
 
-10 GCSEs (A* - C) including English (A) and Music (A*)
+10 B. GCSEs (A* - C) including English (A) and Music (A*)
 
-Grade VI in the Piano
+B. Grade VI in the Piano
 
 ------------------------------------------------------------------------------------------------------------------------------
