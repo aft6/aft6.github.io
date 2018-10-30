@@ -3,9 +3,9 @@ layout: post
 title: BEAR'S CV AND CREDENTIALS
 ---
 
-                                                    Mr Bear Bear
+Mr Bear Bear
 
-                                            13 Bampfylde Road, Torquay
+13 Bampfylde Road, Torquay
 
 Landline: 01496 746 830
 
