@@ -1,6 +1,0 @@
----
-layout: post
-title: BEAR'S NEW SITE!
----
-
-THIS WILL BE BEAR'S NEW SITE FOREVER AND EVER
