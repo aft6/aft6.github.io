@@ -15,7 +15,7 @@ Email: bearbear@musix-world.org
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-OVERVIEW
+PROFESSIONAL SUMMARY
 
 I Would like to be a Pianist and Music teacher so that I can help many bears all over the county so that they can reach their full potential when it comes to extra curricular activities such as Music. Also, I have a strong passion for Music and especially the Piano and I would love to continue my passion as my career to fufill my own ambitions as well as help others' to achieve theirs!
 
