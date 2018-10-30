@@ -29,7 +29,7 @@ I am a hard working and ethical bear who recently graduated with a 2:1 masters d
 
 KEY SKILLS
 
-I have a strong desire to perform all pieces of music to the best of my ability and this has allowed me to develop a goal- orientated mindset, shown whilst I learnt fluent German during my placement year. I am also skilled in the art of composition of music and can listen to musical pieces well, providing constructive criticism to all students. I am a competent musician and have developed strong communication skills, enabling me to interact with other members of an orchaestra or students that I teach.
+I have a strong desire to perform all pieces of music to the best of my ability and this has allowed me to develop a goal- orientated mindset, shown whilst I learnt fluent German during my placement year. I am also skilled in the art of composition of music and can listen to musical pieces well, providing constructive criticism to all students. I am a competent musician and have developed strong communication skills, enabling me to interact with other members of an orchaestra or students that I teach. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -42,6 +42,10 @@ Masters degree in music with honours placed in the 2nd class.
 
 B. Dr Bane's Grammar School (August 2009- December 2013)
 
+3 A- Levels (A* - A) including Music and German
+
 10 GCSEs (A* - C) including English (A) and Music (A*)
+
+Grade VI in the Piano
 
 ------------------------------------------------------------------------------------------------------------------------------
