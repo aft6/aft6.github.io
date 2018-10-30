@@ -3,7 +3,7 @@ layout: post
 title: BEAR'S CV AND CREDENTIALS
 ---
 
-Mr Bear Bear
+Mr Bear Bear (Age: 30)
 
 13 Bampfylde Road, Torquay
 
@@ -17,7 +17,7 @@ Email: bearbear@musix-world.org
 
 PROFESSIONAL SUMMARY
 
-I Would like to be a Pianist and Music teacher so that I can help many bears all over the county so that they can reach their full potential when it comes to extra curricular activities such as Music. Also, I have a strong passion for Music and especially the Piano and I would love to continue my passion as my career to fufill my own ambitions as well as help others' to achieve theirs!
+I Would like to be a Pianist and Music teacher so that I can help many bears all over the county so that they can reach their full potential when it comes to extra curricular activities such as Music. Also, I have a strong passion for Music and especially the Piano and I would love to continue my passion as my career to fufill my own ambitions as well as help others' to achieve theirs! I have a careful ear when listening to music and am experienced in quartet and orchaestral settings. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,4 +29,19 @@ I am a hard working and ethical bear who recently graduated with a 2:1 masters d
 
 KEY SKILLS
 
-My key skills include
+I have a strong desire to perform all pieces of music to the best of my ability and this has allowed me to develop a goal- orientated mindset, shown whilst I learnt fluent German during my placement year. I am also skilled in the art of composition of music and can listen to musical pieces well, providing constructive criticism to all students. I am a competent musician and have developed strong communication skills, enabling me to interact with other members of an orchaestra or students that I teach.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+EDUCATION
+
+University of Oxford (Jaunuary 2016- August 2016)
+
+Masters degree in music with honours placed in the 2nd class.
+
+
+B. Dr Bane's Grammar School (August 2009- December 2013)
+
+10 GCSEs (A* - C) including English (A) and Music (A*)
+
+------------------------------------------------------------------------------------------------------------------------------
