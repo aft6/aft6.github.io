@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bear's CV and Credentials
+title: BEAR'S CV AND CREDENTIALS
 ---
 
 Bear Bear
