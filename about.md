@@ -12,3 +12,7 @@ You should fear me as I am decsended from the great Viking Rollo. This makes me 
 ### Contact me
 
 WHAT? What is this email that you speak of? In the twelth century we had no email.
+
+Mozart! Fantastic Music... and only 550 years into the future!
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Achbq4o574n9t8vv6hvoptypim%3Aplaylist%3A31oD6u1Akf8QcSKcLNQAbb" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
