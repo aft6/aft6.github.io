@@ -11,3 +11,5 @@ title: BEAR AT THE BERLINER PHILHARMONIKER
 
 Bear playing in the Berliner Philharmoniker in September 2017
 
+Bear owns no part of the above video. All credits go to Berliner Philharmoniker.
+
