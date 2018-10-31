@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BEAR PLAYING AT THE BERLINER PHILHARMONIKER
+title: BEAR AT THE BERLINER PHILHARMONIKER
 ---
 
 A video is waiting to be uploaded
