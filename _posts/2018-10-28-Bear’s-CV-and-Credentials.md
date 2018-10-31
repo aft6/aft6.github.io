@@ -50,3 +50,39 @@ B. Dr Bane's Grammar School (August 2009- December 2013)
 B. Grade VI in the Piano
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+WORK EXPERIENCE
+
+Junior Pianist at the B. Berliner Philharmoniker (paid)
+
+Duties included:
+
+•Participating in the percusssion section of the orchaestra, specialising in the Piano.
+
+•Serving as a role- model for other junior members.
+
+•Setting a good example to other members by practising sufficiently.
+
+•Teaching other musicians how to successfully play compositions that were considered 'tricky' by other junior members of the orchaestra.
+
+•Participated in a German Orchaestral tour, working with members of different orchaestras throughout Germany.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Volunteering at B. Dr Bane's Grammar School (unpaid)
+
+Duties included: 
+
+•Teaching a class of 30 basic and advanced music through a wide range of instruments and theoretical lessons.
+
+•Inspiring young students through workshops and lessons.
+
+•Collaborating with other members of the Music Department to plan effective and fun lessons.
+
+•Assisting senior Music teachers with demonstrations.
+
+---------------------------------------------------------------------------------------------------
+
+HOBBIES & INTERESTS
+
+My hobbies include
