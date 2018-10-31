@@ -12,3 +12,5 @@ Mobile: 07523 587 348
 Landline: 01496 746 830
 
 Please note that a response can be expected from 0 minutes to 840 minutes.
+
+Lessons and Bookings are subject to availability. First come, First served.
