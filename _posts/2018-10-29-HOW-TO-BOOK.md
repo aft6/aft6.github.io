@@ -3,4 +3,8 @@ layout: post
 title: HOW TO BOOK
 ---
 
-To book a music lesson or Bear as a pianist for social events then...
+To book Bear as a pianist or as a music teacher, please contact him through one ofthe following methods:
+
+Email: bearbear@musix-world.org
+
+Mobile: 
