@@ -85,4 +85,10 @@ Duties included:
 
 HOBBIES & INTERESTS
 
-My hobbies include
+Strongly related to music, my hobbies include watching live concerts at some of the UK's most renowned venues such as the Royal Albert Hall. Also, I like to help my old school set up a music concert annualy as a fundraising event for the school however, I now hope to expand this onto my previous universities to enrich as many people as possible. Finally, I enjoy going to schools around my local area and providing free performances as well as workshops to encourage children to take up music to a degree and career level in the future.
+
+-----------------------------------------------------------------------------------
+
+REFERENCES
+
+References are available on request.
