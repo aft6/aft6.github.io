@@ -5,7 +5,7 @@ title: BEAR'S CV AND CREDENTIALS
 
 Mr Bear Bear (Age: BŶ30)
 
-13 Bampfylde Road, Torquay
+17 Bampfylde Road, Torquay
 
 Landline: 01496 746 830
 
