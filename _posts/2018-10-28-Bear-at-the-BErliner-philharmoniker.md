@@ -4,6 +4,7 @@ title: BEAR AT THE BERLINER PHILHARMONIKER
 ---
 
 
+The below video is of Bear playing at the Berliner Philarmonikerin September 2017:
 <hr>
 
 <div class="vid">
