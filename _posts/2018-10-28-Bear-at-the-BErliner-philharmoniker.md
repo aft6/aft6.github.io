@@ -5,7 +5,7 @@ title: BEAR AT THE BERLINER PHILHARMONIKER
 
 
 <div class="vid">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/iG9CE55wbtY?list=PL70DEC2B0568B5469" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VHDZ2isd4xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
 
