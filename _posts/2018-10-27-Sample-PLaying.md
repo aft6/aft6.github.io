@@ -3,7 +3,7 @@ layout: post
 title: SAMPLE PLAYING
 ---
 
-Please open this sample in the Spotify App to preview the whole piece...
+Please open this sample in the Spotify App to preview the whole piece... YES? 
 
 ![image alt text]({{ site.url }}/public/blog/wp-content/uploads/2013/11/p1010928.jpg)
 
