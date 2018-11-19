@@ -68,4 +68,6 @@ published: true
   </tr>
 </table>
 
+<img src="https://www.geeky-gadgets.com/wp-content/uploads/2014/03/Fuze-Raspberry-Pi-Keyboard-Case.jpg" alt="Trulli">
+
 
