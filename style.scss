@@ -78,6 +78,7 @@ a {
   text-decoration: none;
 	cursor: progress;
   &:hover, &:active {
+     text-transform: uppercase;
     color: $blue;
 }
 }
